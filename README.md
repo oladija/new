@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int main()
 {
 
@@ -12,5 +14,7 @@ int main()
 
     Printf("\nHello %s and your age is %d", name, age);
     return 0;
+}
+
     
     
